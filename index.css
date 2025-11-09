@@ -21,8 +21,8 @@
   font-family: "Roboto";
 }
 .banner-section-bg-container {
-  background-image: url("./images/bgg_img.png") !important;
-  background-color: red;
+  background-image: url("./images/bg_image.jpg") !important;
+ 
   height: 100vh;
   background-size: cover;
 }
